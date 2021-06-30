@@ -1,13 +1,13 @@
                                                 
 
-*INVENTORY CONTROL MANAGEMENT SYSTEM*
+# INVENTORY CONTROL MANAGEMENT SYSTEM*
 
-April 17, 2020
-
-
+### April 17, 2020
 
 
-Description:
+
+
+## Description:
 
 The inventory control management database system is documenting and managing the details of the inventories present in the industries/companies. It plays an important role in business to maintain all the details like stock, sales, profit and so on. It helps in effective management of raw materials and manufactured products so as to maximize profit and reduce expenditures. This will also result in more efficiency and less maintenance because we can easily find everything as related data is stored in an organized manner. Therefore, the inventory control management database is designed to reduce the storage cost, reduce the insurance cost, reduce taxes, and optimize the stock sales which are managed by the admin and staff.
 
@@ -22,7 +22,7 @@ In our previous reports we have seen there are six modules in our Inventory mana
 
 The Customer, Staff and Admin play a major role in accessing and updating the data. So modules can be explained on the basis of their privileges and authentication.
 
-**Home Page**
+## Home Page
 
 ![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.001.png)
 
@@ -42,7 +42,7 @@ Here we can see that a new user (as a Customer) has to enter their   information
 
 
 
-After logging in, the customer portal looks like this:
+#### After logging in, the customer portal looks like this:
 
 ![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.006.png)
 
@@ -70,15 +70,15 @@ If the customer wants to purchase any inventory from the inventory list, they wi
 
 The Customer may logout from the portal by clicking on the logout option on the top right corner of the page.
 
-**Inventory table-**
+### Inventory table-
 
 ![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.010.png)
 
-**Staff Login Page**
+### Staff Login Page**
 
 ![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.011.png)
 
-**Staff Details**
+### Staff Details**
 
 ![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.012.png)
 
@@ -110,7 +110,7 @@ The Staff can only view the Customer Module and Inventory Module where data of c
 
 
 
-**Admin Login Page**
+### Admin Login Page
 
 ![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.016.png)
 
@@ -122,7 +122,7 @@ The Admin Login page is for the admin to login to the inventory system. Admin ha
 
 Admin can also retrieve information of the balance amount to be paid. They will have information on the low stock items and can update them when required. They can also update details of inventory using this interface dynamically.
 
-Database Tables
+## Database Tables
 
 **Admin Login**
 
