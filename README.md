@@ -28,23 +28,23 @@ The Customer, Staff and Admin play a major role in accessing and updating the da
 
 In the home page, Users have to login on the basis of their role in our inventory system. Users of the inventory can be one of Customer, Staff or admin. Assuming the user to be Customer we have the following: ![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.002.png)
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.003.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.003.png)
 
 New customers first need to register themselves by going to sign up page so as to be able to view and purchase items from our inventory. Existing customers can login to the customer portal and can purchase and view the items available in stock to be sold.
 
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.004.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.004.png)
 
 Here we can see that a new user (as a Customer) has to enter their   information to create a new account and login to the Customer portal.
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.005.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.005.png)
 
 
 
 
 After logging in, the customer portal looks like this:
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.006.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.006.png)
 
 As we can see above, the customer portal welcomes you by using the Customer name which in this case is Arun Lal.
 
@@ -57,9 +57,9 @@ The **Payment Status** shows the recent payments made by the customer.
 The **Inventory Available** shows the list of inventory in stock at present.
 
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.007.png)![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.008.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.007.png)![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.008.png)
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.009.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.009.png)
 
 
 
@@ -72,21 +72,21 @@ The Customer may logout from the portal by clicking on the logout option on the 
 
 **Inventory table-**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.010.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.010.png)
 
 **Staff Login Page**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.011.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.011.png)
 
 **Staff Details**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.012.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.012.png)
 
 We have a staff Portal for the staff working in the company. A person can request the admin to get a job as staff in the company. Only registered staff have authorization to login, do transaction and update purchase and payment details made by the Supplier and customer respectively. 
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.013.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.013.png)
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.014.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.014.png)
 
 
 
@@ -99,7 +99,7 @@ As an instance we can see that Arun Lal requested an inventory having inv\_id = 
 
 
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.015.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.015.png)
 
 The Purchase insertion section is updated by the staff whenever the company requests materials from the supplier. The purchase Id and other purchase details are inserted after the staff makes a successful transaction between the company and the supplier. The inventory stock automatically gets updated as soon as the purchase process is complete.
 
@@ -112,13 +112,13 @@ The Staff can only view the Customer Module and Inventory Module where data of c
 
 **Admin Login Page**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.016.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.016.png)
 
 
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.017.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.017.png)
 
-The Admin Login page is for the admin to login to the inventory system. Admin has authorization to view and update details of all the users and available inventories in the system. Admin can login using local host also. ![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.018.png)
+The Admin Login page is for the admin to login to the inventory system. Admin has authorization to view and update details of all the users and available inventories in the system. Admin can login using local host also. ![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.018.png)
 
 Admin can also retrieve information of the balance amount to be paid. They will have information on the low stock items and can update them when required. They can also update details of inventory using this interface dynamically.
 
@@ -126,29 +126,29 @@ Database Tables
 
 **Admin Login**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.019.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.019.png)
 
 **Staff Details**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.020.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.020.png)
 
-**Customer Table![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.021.png)**
+**Customer Table![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.021.png)**
 
 **Inventory Table**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.022.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.022.png)
 
 **Payment Table**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.023.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.023.png)
 
-**Purchase Table![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.024.png)**
+**Purchase Table![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.024.png)**
 
 
 
 **Stock Table**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.025.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.025.png)
 
 
 
@@ -157,6 +157,6 @@ Database Tables
 
 **Supplier Table**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.026.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.026.png)
 
 
