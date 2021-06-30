@@ -1,16 +1,11 @@
-﻿**Database Management System Project (CS262)**                                                  
+                                                
 
 **INVENTORY CONTROL MANAGEMENT SYSTEM**
 
 April 17, 2020
 
-**Course Instructor:** Dr. Antriksh Goswami
-
-**Student(s) Name(s) and ID(s):** Anjul Gupta (201851022) & Krishna Kant Jaju (201851061)
 
 
-
-**Final Report**
 
 Description:
 
