@@ -1,6 +1,6 @@
                                                 
 
-**INVENTORY CONTROL MANAGEMENT SYSTEM**
+*INVENTORY CONTROL MANAGEMENT SYSTEM*
 
 April 17, 2020
 
