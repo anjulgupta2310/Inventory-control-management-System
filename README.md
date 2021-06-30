@@ -24,7 +24,7 @@ The Customer, Staff and Admin play a major role in accessing and updating the da
 
 **Home Page**
 
-![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.001.png)
+![](Images/Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.001.png)
 
 In the home page, Users have to login on the basis of their role in our inventory system. Users of the inventory can be one of Customer, Staff or admin. Assuming the user to be Customer we have the following: ![](Aspose.Words.cc79727f-b643-41ca-9f04-e78755625ec7.002.png)
 
