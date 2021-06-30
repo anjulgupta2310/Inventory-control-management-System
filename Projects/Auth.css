@@ -1,0 +1,41 @@
+#Admin
+{
+    margin-top:100px;
+    width:60%;
+    height:60px;
+    text-align:center;
+    Color:white;
+    background-color:Red;
+    margin-left:100px;
+    font-size:30px;
+    padding:35px;
+    border-radius:15px;
+
+}
+#Staff
+{
+    width:60%;
+    height:40px;
+    text-align:center;
+    Color: Blue;
+    background-color:Red;
+    margin-left:100px;
+    font-size:30px;
+    padding:35px;
+    border-radius:15px;
+}
+#Customer
+{
+    width:60%;
+    height:40px;
+    text-align:center;
+    Color: Blue;
+    background-color:Red;
+    margin-left:100px;
+    font-size:30px;
+    padding:35px;
+    border-radius:15px;
+}
+.h1{
+    margin:60px;
+}
