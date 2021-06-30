@@ -11,7 +11,7 @@
 
 The inventory control management database system is documenting and managing the details of the inventories present in the industries/companies. It plays an important role in business to maintain all the details like stock, sales, profit and so on. It helps in effective management of raw materials and manufactured products so as to maximize profit and reduce expenditures. This will also result in more efficiency and less maintenance because we can easily find everything as related data is stored in an organized manner. Therefore, the inventory control management database is designed to reduce the storage cost, reduce the insurance cost, reduce taxes, and optimize the stock sales which are managed by the admin and staff.
 
-In our previous reports we have seen there are six modules in our Inventory management system project
+In our project there are six modules in our Inventory management system project
 
 - Customer Module
 - Inventory Module
